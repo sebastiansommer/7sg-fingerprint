@@ -1,0 +1,13 @@
+{
+    "name": "7sg/fingerprint",
+    "description": "Generates a fingerprint hash from user agent and ip",
+    "type": "library",
+    "require": {
+        "piwik/device-detector": "^3.12"
+    },
+    "autoload": {
+        "psr-0": {
+            "Seven": "src/"
+        }
+    }
+}
